@@ -1,4 +1,4 @@
-public class TiposVariavei {
+public class TiposVariaveis {
     /**
      * @param args
      * @throws Exception
@@ -17,3 +17,5 @@ public class TiposVariavei {
         System.out.println(numero);
     }
 }
+
+
